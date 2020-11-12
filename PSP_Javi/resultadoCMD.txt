@@ -1,0 +1,3 @@
+bin
+resultadoCMD.txt
+src
